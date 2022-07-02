@@ -1,4 +1,4 @@
-Hi，我是FrothierNine346，是个新手，正在学习Python，祝我好运。
+FrothierNine346
 
 <!-- - 👋 Hi, I’m @FrothierNine346
 - 👀 I’m interested in Programming
